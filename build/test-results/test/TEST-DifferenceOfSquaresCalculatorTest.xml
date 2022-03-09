@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-03-09T18:52:17" hostname="DBC" time="0.004">
+<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-03-09T19:00:11" hostname="DBC" time="0.008">
   <properties/>
-  <testcase name="testDifferenceOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.002"/>
+  <testcase name="testDifferenceOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.005"/>
   <testcase name="testSquareOfSumUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
   <testcase name="testSquareOfSumUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
   <testcase name="testDifferenceOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
-  <testcase name="testSumOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
+  <testcase name="testSumOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.001"/>
   <testcase name="testSquareOfSumUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
   <testcase name="testDifferenceOfSquaresUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
   <testcase name="testSumOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0"/>
